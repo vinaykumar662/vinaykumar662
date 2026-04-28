@@ -28,7 +28,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="www.linkedin.com/in/vinay-kumar-b7105b294">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://twitter.com/ku33822239n">
