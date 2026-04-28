@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
-<h3 align="center">Cloud Security | DevOps | DevSecOps | AIOps Enthusiast</h3>
+<h3 align="center">DevOps | DevSecOps | AIOps Enthusiast</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vinaykumar662&label=PROFILE+VIEWS&color=0D1117&style=for-the-badge"/>
